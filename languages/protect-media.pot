@@ -1,0 +1,152 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Protect Media Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2021-05-19 14:42+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: ateliee "
+"<info@ateliee.com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.4.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: src/include.php:60
+#: src/include.php:84
+msgid ""
+"Protect Media Setting"
+msgstr ""
+
+#: src/include.php:61
+msgid "Protect Media"
+msgstr ""
+
+#: src/include.php:85
+msgid ""
+"Make login required for "
+"file access of the set "
+"path."
+msgstr ""
+
+#: src/include.php:87
+msgid ""
+"Check if AllowOverride "
+"in php.ini is enabled."
+msgstr ""
+
+#: src/include.php:90
+#, php-format
+msgid ""
+"%s does not exist. Save "
+"and update your settings."
+msgstr ""
+
+#: src/include.php:93
+#, php-format
+msgid ""
+"You don't have write "
+"permission to .htaccess. "
+"Please describe the "
+"following in %s."
+msgstr ""
+
+#: src/include.php:98
+msgid ""
+"You don't have write "
+"permission to .htaccess."
+msgstr ""
+
+#: src/include.php:102
+msgid ""
+"Protection is not "
+"enabled because the path "
+"is invalid."
+msgstr ""
+
+#: src/include.php:111
+msgid "Path setting"
+msgstr ""
+
+#: src/include.php:114
+msgid ""
+"Please specify the path "
+"from uploads"
+msgstr ""
+
+#: src/include.php:115
+msgid ""
+"Specify one path per line"
+msgstr ""
+
+#: src/include.php:119
+msgid "Deny all access"
+msgstr ""
+
+#: src/include.php:123
+msgid "Save"
+msgstr ""
+
+#: src/include.php:139
+msgid ""
+"The settings have been "
+"saved."
+msgstr ""
+
+#: src/include.php:205
+msgid ""
+".htaccess could not be "
+"read."
+msgstr ""
+
+#: src/include.php:214
+msgid ""
+"Any changes to the "
+"directive between these "
+"markers will be "
+"overwritten."
+msgstr ""
+
+#: src/include.php:223
+msgid ""
+"Failed to write to ."
+"htaccess."
+msgstr ""
